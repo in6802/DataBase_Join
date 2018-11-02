@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DataBase_Join</string>
+    <string name="editTextCountry">Country</string>
+    <string name="editTextCity">City</string>
+    <string name="buttonInsertRecord">Insert Record</string>
+    <string name="buttonReadData">Read Data</string>
+    <string name="buttonUpdateRecord">Update Record</string>
+    <string name="buttonDeleteRecord">Delete Record</string>
+    <string name="textViewResult">Result</string>
+    <string name="editTextPKID">PKID</string>
+    <string name="textViewPKID">PKID :</string>
+    <string name="textViewPKIDTitle">PKID :</string>
+    <string name="TextViewTotalTitle">Visited Total Count :</string>
+    <string name="buttonSearch">Search</string>
+    <string name="buttonAddVisited">Add Visited</string>
+</resources>
